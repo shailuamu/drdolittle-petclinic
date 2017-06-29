@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --host ec2-54-169-230-139.ap-southeast-1.compute.amazonaws.com",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
