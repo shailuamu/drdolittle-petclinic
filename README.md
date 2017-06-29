@@ -30,5 +30,3 @@ ng serve
 ```
 
 Navigate to http://localhost:4200/petclinic/
-
-DONE.
