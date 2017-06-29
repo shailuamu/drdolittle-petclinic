@@ -6,7 +6,7 @@
 	<groupId>com.drdolittle</groupId>
 	<artifactId>drdolittle-petclinic</artifactId>
 	<version>1.5.2</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>petclinic</name>
 	<description>Dr. Dolittle Petclinic</description>
@@ -141,6 +141,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>ROOT</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
